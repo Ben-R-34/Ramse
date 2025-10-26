@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Lemon Garlic Chicken with Broccoli",
+    "cuisine": "american",
+    "tags": ["high-protein", "gluten-free", "dairy-free"],
+    "prep_minutes": 15,
+    "cook_minutes": 20,
+    "cost_cents_est": 1200
+  },
+  {
+    "title": "Chickpea Spinach Curry",
+    "cuisine": "indian",
+    "tags": ["vegan", "dairy-free", "gluten-free"],
+    "prep_minutes": 10,
+    "cook_minutes": 25,
+    "cost_cents_est": 700
+  },
+  {
+    "title": "Turkey Taco Bowls",
+    "cuisine": "mexican",
+    "tags": ["high-protein", "dairy-optional"],
+    "prep_minutes": 10,
+    "cook_minutes": 20,
+    "cost_cents_est": 900
+  },
+  {
+    "title": "Pesto Zucchini Noodles",
+    "cuisine": "italian",
+    "tags": ["low-carb", "vegetarian"],
+    "prep_minutes": 15,
+    "cook_minutes": 10,
+    "cost_cents_est": 800
+  }
+]
